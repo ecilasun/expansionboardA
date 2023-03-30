@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HD02-19-M-MSMT-TR")(type "KiCad")(uri "${KIPRJMOD}/HD02-19-M-MSMT-TR")(options "")(descr ""))
+  (lib (name "MAX3420EECJ")(type "KiCad")(uri "${KIPRJMOD}/MAX3420EECJ")(options "")(descr ""))
+  (lib (name "USB4085-GF-A_REVA4")(type "KiCad")(uri "${KIPRJMOD}/USB4085-GF-A_REVA4")(options "")(descr ""))
+  (lib (name "DM3AT-SF-PEJM5")(type "KiCad")(uri "${KIPRJMOD}/DM3AT-SF-PEJM5")(options "")(descr ""))
+  (lib (name "MCP3008T-I_SL")(type "KiCad")(uri "${KIPRJMOD}/MCP3008T-I_SL")(options "")(descr ""))
+  (lib (name "TLV320AIC23BIPW")(type "KiCad")(uri "${KIPRJMOD}/TLV320AIC23BIPW")(options "")(descr ""))
+  (lib (name "SJ-3523-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ-3523-SMT-TR")(options "")(descr ""))
+)
