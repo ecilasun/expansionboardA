@@ -7,4 +7,5 @@
   (lib (name "MCP3008T-I_SL")(type "KiCad")(uri "${KIPRJMOD}/MCP3008T-I_SL")(options "")(descr ""))
   (lib (name "TLV320AIC23BIPW")(type "KiCad")(uri "${KIPRJMOD}/TLV320AIC23BIPW")(options "")(descr ""))
   (lib (name "SJ-3523-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ-3523-SMT-TR")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/CS4344/footprints.pretty")(options "")(descr ""))
 )
