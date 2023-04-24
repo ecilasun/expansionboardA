@@ -8,4 +8,5 @@
   (lib (name "TLV320AIC23BIPW")(type "KiCad")(uri "${KIPRJMOD}/TLV320AIC23BIPW")(options "")(descr ""))
   (lib (name "SJ-3523-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ-3523-SMT-TR")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/CS4344/footprints.pretty")(options "")(descr ""))
+  (lib (name "1_1825027_1")(type "KiCad")(uri "${KIPRJMOD}/1_1825027_1")(options "")(descr ""))
 )
