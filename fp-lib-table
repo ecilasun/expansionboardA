@@ -9,4 +9,5 @@
   (lib (name "SJ-3523-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ-3523-SMT-TR")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/CS4344/footprints.pretty")(options "")(descr ""))
   (lib (name "1_1825027_1")(type "KiCad")(uri "${KIPRJMOD}/1_1825027_1")(options "")(descr ""))
+  (lib (name "MAX3421EEHJ_T")(type "KiCad")(uri "${KIPRJMOD}/MAX3421EEHJ_T")(options "")(descr ""))
 )
