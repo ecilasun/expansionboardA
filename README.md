@@ -15,9 +15,33 @@ For hardware, visit https://github.com/ecilasun/tinysys. The project files requi
 
 For software, visit https://github.com/ecilasun/riscvtool and check the tinysys directory for the default ROM image and samples. The ROM image comes in two parts: the actual executable ROM and another one (fetch) that contains instruction sequences to inject on hardware/software interrupts. Samples demonstrate majority of the capabilities of the tinysys SoC itself.
 
-# Future sections:
-- Populating the board partially
-- 3v3 and 5v voltage path selection
-- QMTECH core board installation
-- Installing tinysys bitware
-- Compiling and running software on the board
+# Device manual:
+- Populating the board
+    - USB-C power
+    - Debug port
+    - SD Card reader
+    - HDMI port
+    - A/D converter
+    - USB-C client
+    - USB-A host
+    - Board carrier headers
+    - Fan connection
+    - Audio
+    - QMTECH A7-200T core board
+- Installing tinysys SoC bitware
+- Compiling and running demo software on the board
+    - Compiler toolchain installation
+    - Hello, board!
+- Operating system how-tos
+    - List of syscalls
+    - Memory layout
+    - Operating principles
+    - Debugging
+- Device manuals:
+    - Raw audio
+    - OPL2 audio
+    - GPU
+    - DMA
+    - A/D converter
+    - Interrupt handling
+    - Task system
