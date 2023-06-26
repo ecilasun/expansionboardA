@@ -1,4 +1,4 @@
-21487340867381204
+21490715173667299
 1_1825027_1
 SW_1-1825027-1
 
@@ -6,6 +6,13 @@ SW_1-1825027-1
 0
 4
 4
+AS01508MS-SC11-WP-R
+SPKR_AS01508MS-SC11-WP-R
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59947,6 +59954,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LM1117MPX33NOPB
+VREG_LM1117MPX-3.3_NOPB
+
+
+0
+4
+4
 MAX3420EECJ
 QFP80P900X900X160-32N
 

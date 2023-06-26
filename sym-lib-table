@@ -10,4 +10,6 @@
   (lib (name "2023-04-16_23-08-01")(type "KiCad")(uri "${KIPRJMOD}/CS4344/2023-04-16_23-08-01.kicad_sym")(options "")(descr ""))
   (lib (name "1-1825027-1")(type "Legacy")(uri "${KIPRJMOD}/1_1825027_1/1-1825027-1.lib")(options "")(descr ""))
   (lib (name "2023-04-30_01-05-07")(type "KiCad")(uri "${KIPRJMOD}/MAX3421EEHJ_T/2023-04-30_01-05-07.kicad_sym")(options "")(descr ""))
+  (lib (name "AS01508MS-SC11-WP-R")(type "KiCad")(uri "${KIPRJMOD}/AS01508MS-SC11-WP-R/AS01508MS-SC11-WP-R.kicad_sym")(options "")(descr ""))
+  (lib (name "LM1117MPX-3.3_NOPB")(type "KiCad")(uri "${KIPRJMOD}/LM1117MPX33NOPB/LM1117MPX-3.3_NOPB.kicad_sym")(options "")(descr ""))
 )

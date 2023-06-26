@@ -10,4 +10,6 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/CS4344/footprints.pretty")(options "")(descr ""))
   (lib (name "1_1825027_1")(type "KiCad")(uri "${KIPRJMOD}/1_1825027_1")(options "")(descr ""))
   (lib (name "MAX3421EEHJ_T")(type "KiCad")(uri "${KIPRJMOD}/MAX3421EEHJ_T")(options "")(descr ""))
+  (lib (name "AS01508MS-SC11-WP-R")(type "KiCad")(uri "${KIPRJMOD}/AS01508MS-SC11-WP-R")(options "")(descr ""))
+  (lib (name "LM1117MPX33NOPB")(type "KiCad")(uri "${KIPRJMOD}/LM1117MPX33NOPB")(options "")(descr ""))
 )
